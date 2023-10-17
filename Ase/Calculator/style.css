@@ -1,0 +1,36 @@
+table{
+    margin: auto;
+} 
+.btn,.btn1,.btn2{
+    width: 100%;
+    color: white;
+    border:none;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 20px 40px;
+}
+.btn:active{
+    transform: scale(0.99);
+}
+.btn1:active{
+    transform: scale(0.99);
+}
+.btn2:active{
+    transform: scale(0.99);
+}
+.btn{
+    background-color: black;
+}
+
+.btn1{
+    background-color: gray;
+}
+.btn2{
+    background-color: rgb(29, 150, 124);
+}
+input[type="text"]{
+    border:none;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 20px 30px;
+}
